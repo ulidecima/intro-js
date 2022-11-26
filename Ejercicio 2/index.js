@@ -1,4 +1,6 @@
-/*var celular = {
+//EJERCICIO 1
+
+var celular = {
     marca:          "Samsung",
     color:          "azul",
     precio:         19000,
@@ -24,9 +26,10 @@ for (var i=0; i < keys.length; i++) {
     var key = keys[i];
     console.log(key + ": " + celular[key]);
 }
-*/
 
-/*
+
+//EJERCICIO 2
+
 //Crear un arreglo con los siguientes valores 1, 2, 3 y  4. Almacenarlo en una constante llamada arreglo.
 const arreglo = [1,2,3,4];
 console.log(arreglo);
@@ -47,7 +50,9 @@ const arreglo_tres = arreglo_dos.map(function(num){
 });
 
 console.log(arreglo_tres);
-*/
+
+
+//EJERCICIO 3
 
 //A partir del siguiente objeto:
 const person = {
