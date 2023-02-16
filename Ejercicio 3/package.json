@@ -1,11 +1,12 @@
 {
-  "name": "n2",
+  "name": "ejercicio-3",
   "version": "1.0.0",
-  "description": "prueba 1",
+  "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ulises Decima",
   "license": "ISC"
 }
